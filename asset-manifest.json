@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://juliasmolianska.github.io/csb-6d6p1z/static/css/main.e4104355.chunk.css",
+    "main.js": "https://juliasmolianska.github.io/csb-6d6p1z/static/js/main.f5229623.chunk.js",
+    "main.js.map": "https://juliasmolianska.github.io/csb-6d6p1z/static/js/main.f5229623.chunk.js.map",
+    "runtime-main.js": "https://juliasmolianska.github.io/csb-6d6p1z/static/js/runtime-main.d1d5e1d6.js",
+    "runtime-main.js.map": "https://juliasmolianska.github.io/csb-6d6p1z/static/js/runtime-main.d1d5e1d6.js.map",
+    "static/js/2.349849f4.chunk.js": "https://juliasmolianska.github.io/csb-6d6p1z/static/js/2.349849f4.chunk.js",
+    "static/js/2.349849f4.chunk.js.map": "https://juliasmolianska.github.io/csb-6d6p1z/static/js/2.349849f4.chunk.js.map",
+    "index.html": "https://juliasmolianska.github.io/csb-6d6p1z/index.html",
+    "static/css/main.e4104355.chunk.css.map": "https://juliasmolianska.github.io/csb-6d6p1z/static/css/main.e4104355.chunk.css.map",
+    "static/js/2.349849f4.chunk.js.LICENSE.txt": "https://juliasmolianska.github.io/csb-6d6p1z/static/js/2.349849f4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1d5e1d6.js",
+    "static/js/2.349849f4.chunk.js",
+    "static/css/main.e4104355.chunk.css",
+    "static/js/main.f5229623.chunk.js"
+  ]
+}
